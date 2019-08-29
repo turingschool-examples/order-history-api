@@ -18,7 +18,7 @@ module.exports = {
       id: 3,
       img: 'https://www.neutrogena.com.au/sites/neutrogena_au/files/styles/product_image/public/product-images/beach-defence-lotion-spf50_0.png',
       name: 'Neutrogena Sunscreen Body Lotion',
-      description: 'Offers superior protection with the convenience of no mess.  Suitable for your fade and body and is water resistant.',
+      description: 'Offers superior protection with the convenience of no mess.  Suitable for your face and body while also being water resistant.',
       price: 9
     },
     {
@@ -53,7 +53,7 @@ module.exports = {
       id: 8,
       img: 'https://mycoolcarstuff.com/content/images/thumbs/000/0001400_dodge-elite-floor-mats_600.png',
       name: 'Dodge Floormats',
-      description: 'High quality floormats for you Dodge Charger.  Drive in style and in comfort.',
+      description: 'High quality floormats for your Dodge Charger.  Drive in style and in comfort.',
       price: 40
     },
   ]
